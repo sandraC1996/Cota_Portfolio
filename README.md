@@ -1,5 +1,5 @@
 # Cota_Portfolio
-This is my public portfolio for the Telling stories with Data at CMU!
+This is my public portfolio for the Telling stories with Data course at CMU!
 
 ![Picture](Im2.png)
 

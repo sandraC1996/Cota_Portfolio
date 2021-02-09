@@ -9,3 +9,5 @@ My name is **Sandra Cota** (she/her). I'm doing my master in Entertainment Indus
 My goal is to be able to present data in a usefull way and by using good design principles. I'm really intrested in data visualization techniques. Knowing how to represent your information is crucial in any industry. It can also help you stand out in your presentations and be more efficient at any job you do. 
 
 ## Portfolio
+
+git checkout --orphan assets 

@@ -5,6 +5,7 @@ This is my public portfolio for the Telling stories with Data course at CMU!
 
 ## About Me
 Hi everyone! My name is **Sandra Cota** (she/her). I'm doing my master in Entertainment Industry Management at CMU. I have always been drawn into the entertainmet industry. I started by doing my bachelor in Animation and Digital Arts at Tecnologico de Monterrey, and then by coursing the 3D Animation and VFX program ar Vancouver Film School were I focus mainly in visual effects. 
+
 I have work a couple of years as a _VFX artist_ and as a _Post-production project manager_ in a small company called Pixel Perfect in Mexico. After graduating from this program, I want to work as a Post-production coordinator and ultimately become a VFX producer.
 
 ## What I hope to learn

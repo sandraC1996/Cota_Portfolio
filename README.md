@@ -1,5 +1,5 @@
-![Picture](Im2.png)
 # Cota_Portfolio
+![Picture](Im2.png)
 This is my public portfolio for the Telling stories with Data at CMU!
 
 ## About Me

@@ -10,4 +10,3 @@ My goal is to be able to present data in a usefull way and by using good design 
 
 ## Portfolio
 
-git checkout --orphan assets 

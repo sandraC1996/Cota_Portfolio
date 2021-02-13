@@ -12,9 +12,7 @@ I have worked for a couple of years as a **_VFX artist_** and as a **_Post-produ
 I was quite excited to take this course. My main goal is to be able to present data in a usefull way and learning to use good design principles. I'm really intrested in data visualization techniques. Knowing how to represent your information is crucial in any industry. It can also help you stand out in your presentations and be more efficient at any job you do. I'm also intrested in exploring how the concepts I have learned as a VFX artist can be applied in datavis.
 
 ## Portfolio
-_Coming soon_...
 
-[King County Cases](https://sandrac1996.github.io/Cota_Portfolio/KingCounty.html)
+[**King County Cases**](https://sandrac1996.github.io/Cota_Portfolio/KingCounty.html)
 
-https://sandrac1996.github.io/Cota_Portfolio/
 

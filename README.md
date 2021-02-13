@@ -16,4 +16,4 @@ _Coming soon_...
 
 https://sandrac1996.github.io/Cota_Portfolio/
 
-https://sandrac1996.github.io/Cota_Portfolio/KingCountyCovid
+https://sandrac1996.github.io/Cota_Portfolio/KingCounty

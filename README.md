@@ -14,4 +14,6 @@ I was quite excited to take this course. My main goal is to be able to present d
 ## Portfolio
 _Coming soon_...
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/5255807"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 https://sandrac1996.github.io/Cota_Portfolio/KingCountyCovid

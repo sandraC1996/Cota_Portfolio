@@ -14,7 +14,7 @@ I was quite excited to take this course. My main goal is to be able to present d
 ## Portfolio
 _Coming soon_...
 
-(King County Cases)[https://sandrac1996.github.io/Cota_Portfolio/KingCounty.html]
+[King County Cases](https://sandrac1996.github.io/Cota_Portfolio/KingCounty.html)
 
 https://sandrac1996.github.io/Cota_Portfolio/
 

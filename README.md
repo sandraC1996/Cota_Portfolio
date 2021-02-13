@@ -14,4 +14,6 @@ I was quite excited to take this course. My main goal is to be able to present d
 ## Portfolio
 _Coming soon_...
 
+https://sandrac1996.github.io/Cota_Portfolio/
+
 https://sandrac1996.github.io/Cota_Portfolio/KingCountyCovid

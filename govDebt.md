@@ -9,3 +9,5 @@
 ### Data from 1995 to 2019 - Debt to GDP value - Flouris 2
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/5291037"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<div class="flourish-embed flourish-scatter" data-src="visualisation/5291172"><script src="https://public.flourish.studio/resources/embed.js"></script></div>

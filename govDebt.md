@@ -1,5 +1,8 @@
 # Assigment two - **Goverment Debt**
 
+## Understanding Goverment Debt with Data visualization
+
+To understand how goverment debt has affected each country, we should start by learning the current GDP. On the next graph we can see the difference between each of the countries. 
 <iframe src="https://data.oecd.org/chart/6gMq" width="660" height="495" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6gMq" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
 
 ### Data from 1995 to 2019 - Debt to GDP value - Flouris 1

@@ -23,9 +23,9 @@ My first tought was to get all of this information display in a single graph. Ha
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/5291037"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-After doing this visualization method, I realized that it was not going to help the viewer. you can see which countries have the biggest change between the years and how it compares to each other. Although this is true, I also concluded that it was not the right method to use. By getting all the countries in the same line graph, the information is hard to follow and you get lost when you try to follow the evoultion of debt from a single one. 
+After doing this visualization method, I realized you can see which countries have the biggest change between the years and how it compares to each other. However it was not going to help the viewer process the information. Which made me understand, it was not the right method to use. By getting all the countries in the same line graph, the information is hard to follow and you get lost when you try to follow the evoultion of debt from a single one. 
 
-This make me create one last graph. It shows the GDP on a specific year for each of the countries, but having a range of the different values it takes through all the years. This way you can see all the countries, how their debt compares to each other in every specific year and understand how it move through time with the slider.
+This made me create one last graph. It shows the GDP on a specific year for each of the countries, but having a range of the different values it takes through all the years. This way you can see all the countries, how their debt compares to each other in every specific year, and understand how it move through time with the slider.
 
 ### Evolution of each country GDP value by year - Flouris 3
 

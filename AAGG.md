@@ -13,7 +13,7 @@ However, I believe the data-vis for this information could be represented in a b
 
 After finding which were the areas I thought I could improve, I started doing some wireframe that tackled the problems
 
-![Picture](IMG_0142.JPG)
+![Picture](SS_wireframe.png)
 
 ### Test the solution
 

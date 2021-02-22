@@ -17,4 +17,6 @@ I was quite excited to take this course. My main goal is to be able to present d
 
 Assigment two - [**General Goverment Debt**](https://sandrac1996.github.io/Cota_Portfolio/govDebt.html)
 
+Assigment three - [**Academy Awards Gender Gap**](https://sandrac1996.github.io/Cota_Portfolio/AAGG.html)
+
 

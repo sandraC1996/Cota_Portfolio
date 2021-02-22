@@ -13,10 +13,7 @@ However, I believe the data-vis for this information could be represented in a b
 
 After finding which where the areas I thought I could improve, I started doing some wireframe that takled the problems
 
-
-
-
-
+![Picture](IMAG_0142.png)
 
 ### Test the solution
 
@@ -29,7 +26,7 @@ To test which was the best aproach for the redesgin of the data visualization, I
 
 To build the solution, I ran into some trouble with the softwares and my data. I did two visualizations, one where you just compare the years where there were no woman nominees in each of the cathegories. Which deletes the proportion of quantity of nominees per year, but makes it clear how unbalanced the main categories are:
 
-
+![Picture](Tableau.png)
 
 This grpah was done in Tableau. I don't know how to publish from tableau so I'm adding a screen shot of my screen.
 

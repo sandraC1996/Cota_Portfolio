@@ -34,7 +34,7 @@ This graph was done in Tableau. I don't know how to publish from tableau so I'm 
 
 For the second option, I try to recreate my option B wireframe. However, there were two things I didn't contemplate, I didn't have a column with percentages (So it looks like there is individual information in each of the donut pies instead of two categories male/female), and 2, I couldn't add an image to the center of the donut pie.
 
-
+<div class="flourish-embed flourish-chart" data-src="visualisation/5360916"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
 

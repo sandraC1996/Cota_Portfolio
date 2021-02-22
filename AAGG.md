@@ -1,13 +1,15 @@
 
 # The Gender Gap in the Academy Awards
 
-For this third assignment, I want to focus on the gender ratio for the nominees of the Academy Awards in major cathegories.
+For this third assignment, I want to focus on the lack of gender equality on the nominees of the Academy Awards major cathegories.
 
-As pointed out in this [article](https://www.glamour.com/story/this-chart-breaks-down-the-lack-of-female-nominees-at-the-oscars-in-key-categories-since-1928). There has been a lack of female nominees in the major categories of the Oscars.
+As pointed out in this [article](https://www.glamour.com/story/this-chart-breaks-down-the-lack-of-female-nominees-at-the-oscars-in-key-categories-since-1928), there has been a lack of female nominees in the major categories of the Oscars since they started in 1928. After the #MeToo movements, we started to see a change, but if the topic stops being notice we will go back to the lack of representation.
+
 
 ### Critique
 
-However, I believe the data-vis for this information could be represented in a better way. In the article, it's not easy to understand that each pink square in the column is represented by a year and that the grey information is not blanc, but the men's category.
+The article had a data-vis that was trying to bring focus into the difference of nominees in each of the years.
+However, I believe the data visualization for this information could be represented in a better way. In the article, it's not easy to understand that each pink square in the column is represented by a year and that the grey information is not blanc, but the men's category. It takes the audience a bit of time to understand what is the graph trying to show and how to read it.
 
 ### Wireframe a solution
 

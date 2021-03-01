@@ -5,14 +5,14 @@
 
 ##### The rise of streaming services
 
- **Introduction:
-      - The beggining of steaming services and their moderate success** 
+ **Introduction:**
+    **- The beggining of steaming services and their moderate success** 
         Explain how streaming services started and introduce some of the main reasons for their inital growth
     **- The increasing amount of content **
         Bring focus in how the mix of their original content with access to classic movies and tv shows became a key reason for their progress
- **Point 1:
-    Succes for streaming plataforms
-      - Exponential success & Covid-19**
+ **Point 1:**
+    **Succes for streaming plataforms**
+    **- Exponential success & Covid-19**
         Original content in every platform and a new approach to TV shows. How the pandemic accelerated their growth in the last year.
     **- Quality entertainment for the users**
         Content generated primarely for stremaing services has higger scores than network and cable tv. The streaming services develop shows specificly for their users.

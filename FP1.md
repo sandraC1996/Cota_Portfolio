@@ -40,7 +40,8 @@
  #### Closing:
  **What can we do?**
     
-   Using this in our favor. Being selective with the content we consume. Support shows and networks that aline to our views and create quality content. 
+   Using this in our favor. Being selective with the content we consume.
+   Support shows and networks that aline to our views and create quality content. 
         
         
 

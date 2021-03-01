@@ -42,11 +42,11 @@
         
 ## Initial Sketches:
 
-   **Netflix amount of content 2010 - 2020        -------------------                       Streaming platform growth 2010 - 2020**
+   **Netflix amount of content 2010 - 2020           |              Streaming platform growth 2010 - 2020**
    
    ![Picture](P1_01.png)                      ![Picture](P1_02.png)
    
-   **Average scores for streaming services content          ----------        Old & new streaming services**
+   **Average scores for streaming services content         |       Old & new streaming services**
    
    ![Picture](P1_03.png)                        ![Picture](P1_04.png)
    
@@ -55,6 +55,13 @@
    ![Picture](P1_05.png)
  
 ## The data: 
+ - [Estimated number of SVoD subscribers worldwide in 2020 and 2026, by service](https://www.statista.com/statistics/1052770/global-svod-subscriber-count-by-platform/)
+ - [Number of subscribers to selected subscription video on demand (SVOD) services in the United States from 2018 to 2025, by provider](https://www.statista.com/statistics/706267/streaming-service-subscriber/)
+ - [Number of original content titles produced by Netflix worldwide from 2012 to 2019](https://www.statista.com/statistics/883491/netflix-original-content-titles/)
+ - [Which streaming service has the best original shows and movies?](https://www.allconnect.com/blog/ranking-best-original-content-streaming)
+   I want to add an extra colum to this dataset where I show the average rating for network's content
+ - **Extra** Create a data set of multiple the streaming services and clasify them between payment or adds
+
    
 ## Final Project Deliverable:
 

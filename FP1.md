@@ -5,7 +5,7 @@
 
 ##### The rise of streaming services
 
- **Introduction:**
+ **Introduction:**/n
     **- The beggining of steaming services and their moderate success** 
         Explain how streaming services started and introduce some of the main reasons for their inital growth
     **- The increasing amount of content **

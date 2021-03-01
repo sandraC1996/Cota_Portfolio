@@ -7,15 +7,15 @@
 
 #### Introduction:
  
- - **The beggining of steaming services and their moderate success:**
+ - **The beginning of streaming services and their moderate success:**
       
-      Explain how streaming services started and introduce some of the main reasons for their inital growth
+      Explain how streaming services started and introduce some of the main reasons for their initial growth
       
  - **The increasing amount of content:**
       
-      Bring focus in how the mix of their original content with access to classic movies and tv shows became a key reason for their progress
+      Bring focus on how the mix of their original content with access to classic movies and tv shows became a key reason for their progress
         
-#### Point 1: **Succes for streaming plataforms**
+#### Point 1: **Succes for streaming platforms**
     
  - **Exponential success & Covid-19**
         
@@ -23,17 +23,17 @@
         
  - **Quality entertainment for the users**
         
-   Content generated primarely for stremaing services has higger scores than network and cable tv. The streaming services develop shows specificly for their users.
+   Content primarily for streaming services has higher scores than network and cable tv. The streaming services develop shows specifically for their users.
         
 #### Point 2: **The other side of the coin**
     
   - **Overpopulation of streaming services**
 
-    Big companies and important networks are now moving to streaming services. This implies fees, multiple accounts and way more targeted adds.
+    Big companies and important networks are now moving to stream services. This implies fees, multiple accounts, and way more targeted ads.
     
- - **Data adquisition**
+ - **Data acquisition**
 
-    Streaming services have a bigger access to your individual data and it links directly with the adds or fees they charge.
+    Streaming services have bigger access to your individual data and it links directly with the ads or fees they charge.
         
 #### Closing: **What can we do?**
     
@@ -50,26 +50,26 @@
    
    ![Picture](P1_03.png)                        ![Picture](P1_04.png)
    
-  **Data adquisition per streaming service chart**
+  **Data acquisition per streaming service chart**
    
    ![Picture](P1_05.png)
  
 ## The data: 
-I'm planning to use multiple data sets to back up my project. Some of this datasets already exsist, some I want to add some information and some I want to create (because they don't include a lot of information, they should be simple to make).
+I'm planning to use multiple data sets to back up my project. Some of these datasets already exist, some I want to add extra information, and some I want to create (because they don't include a lot of information, they should be simple to make).
 Some of the datasets I want to use:
  - [Estimated number of SVoD subscribers worldwide in 2020 and 2026, by service](https://www.statista.com/statistics/1052770/global-svod-subscriber-count-by-platform/)
-My goal with this dataset is bring attention on the current subscribers of each of the platforms and how the projections estimate their growth in the next years. This helps understand that the streming services will definitely be the new way to watch content online and how people will embrace them even more in the comming years. 
+My goal with this dataset is to bring attention to the current subscribers of each of the platforms and how the projections estimate their growth in the next years. This helps understand that the streaming services will definitely be the new way to watch content online and how people will embrace them even more in the coming years.
  - [Number of original content titles produced by Netflix worldwide from 2012 to 2019](https://www.statista.com/statistics/883491/netflix-original-content-titles/)
-Because this data is not public, I'm planning to create my own dataset of this information. That way I can show how there has been an increase on the production of original content and which are the genders they are investing the most in. I will use [Wikipedia's chart](https://en.wikipedia.org/wiki/List_of_Netflix_original_programming) as a base and edit the chart to work for my graph. 
+Because this data is not public, I'm planning to create my own dataset of this information. That way I can show how there has been an increase in the production of original content and which are the genders they are investing the most in. I will use [Wikipedia's chart](https://en.wikipedia.org/wiki/List_of_Netflix_original_programming) as a base and edit the chart to work for my graph. 
  - [Which streaming service has the best original shows and movies?](https://www.allconnect.com/blog/ranking-best-original-content-streaming)
-This dataset helps how the quality of the content compares between each of the streaming services and could help some viewers decide in which of them they want to invest. I want to add an extra colum to this dataset where I show the average rating for network's content to also create a comparition between streaming services and cable/network content. 
- - **Extra** Create a data set of multiple the streaming services and clasify them between payment or adds. This will also help the viewer understand which streaming services are free but you need to wait trough adds at the middle and which ones have a fee to use. 
+This dataset helps how the quality of the content compares between each of the streaming services and could help some viewers decide in which of them they want to invest. I want to add an extra column to this dataset where I show the average rating for network content to also create a comparison between streaming services and cable/network content.
+ - **Extra** Create a data set of multiple streaming services and classify them between payments or ads. This will also help the viewer understand which streaming services are free but you need to wait through ads at the middle and which ones have a fee to use. 
 
    
 ## Final Project Deliverable:
 
 For this project, I'm planning to use the suggested method in class **Shorthand**. By using an interactive website, people can have proper access to the information and the data visualizations. This will also allow them to keep digging about the topic and consult extra sources. 
-I will focus on creating a narrative that includes pleanty of data visualizations to provide the necessary information of which streaming services could be the best ones to subscribe to. 
+I will focus on creating a narrative that includes plenty of data visualizations to provide the necessary information on which streaming services could be the best ones to subscribe to. 
 
   
 

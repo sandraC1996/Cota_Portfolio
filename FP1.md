@@ -72,6 +72,6 @@ For this project, I'm planning to use the suggested method in class Shorthand. B
 
 I will focus on creating a narrative that explores the rise of streaming services. I will include plenty of data visualizations to provide the necessary information on the perks and cons of these services. This project will persuade viewers into being more selective on the content they consume and could help them decide which are the best ones for them to subscribe to.  
 
-  
+To get all the information I want as a backup, I will add and create a couple of datasets that will support my information. I decided to do this because currently these datasets are not public or are missing information that could be really useful to have.
 
   

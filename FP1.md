@@ -19,7 +19,7 @@
     
  - **Exponential success & Covid-19**
         
-   Original content in every platform and a new approach to TV shows. How the pandemic accelerated their growth in the last year.
+   Original content in every platform and a new approach to TV shows. How the pandemic accelerated their growth in the last year and its projection for the future.
         
  - **Quality entertainment for the users**
         
@@ -55,17 +55,21 @@
    ![Picture](P1_05.png)
  
 ## The data: 
+I'm planning to use multiple data sets to back up my project. Some of this datasets already exsist, some I want to add some information and some I want to create (because they don't include a lot of information, they should be simple to make).
+Some of the datasets I want to use:
  - [Estimated number of SVoD subscribers worldwide in 2020 and 2026, by service](https://www.statista.com/statistics/1052770/global-svod-subscriber-count-by-platform/)
- - [Number of subscribers to selected subscription video on demand (SVOD) services in the United States from 2018 to 2025, by provider](https://www.statista.com/statistics/706267/streaming-service-subscriber/)
+My goal with this dataset is bring attention on the current subscribers of each of the platforms and how the projections estimate their growth in the next years. This helps understand that the streming services will definitely be the new way to watch content online and how people will embrace them even more in the comming years. 
  - [Number of original content titles produced by Netflix worldwide from 2012 to 2019](https://www.statista.com/statistics/883491/netflix-original-content-titles/)
+Because this data is not public, I'm planning to create my own dataset of this information. That way I can show how there has been an increase on the production of original content and which are the genders they are investing the most in. I will use [Wikipedia's chart](https://en.wikipedia.org/wiki/List_of_Netflix_original_programming) as a base and edit the chart to work for my graph. 
  - [Which streaming service has the best original shows and movies?](https://www.allconnect.com/blog/ranking-best-original-content-streaming)
-   I want to add an extra colum to this dataset where I show the average rating for network's content
- - **Extra** Create a data set of multiple the streaming services and clasify them between payment or adds
+This dataset helps how the quality of the content compares between each of the streaming services and could help some viewers decide in which of them they want to invest. I want to add an extra colum to this dataset where I show the average rating for network's content to also create a comparition between streaming services and cable/network content. 
+ - **Extra** Create a data set of multiple the streaming services and clasify them between payment or adds. This will also help the viewer understand which streaming services are free but you need to wait trough adds at the middle and which ones have a fee to use. 
 
    
 ## Final Project Deliverable:
 
-For this project, I'm planning to use the suggested method in class **Shorthand**. By using an interactive website, people can have proper access to the information and the data visualizations. This will also allow to keep digging about the topic and consult extra sources. 
+For this project, I'm planning to use the suggested method in class **Shorthand**. By using an interactive website, people can have proper access to the information and the data visualizations. This will also allow them to keep digging about the topic and consult extra sources. 
+I will focus on creating a narrative that includes pleanty of data visualizations to provide the necessary information of which streaming services could be the best ones to subscribe to. 
 
   
 

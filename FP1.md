@@ -48,7 +48,7 @@
    
    Average scores for streaming services content            |           Old & new streaming services
    
-   ![Picture](P1_03.png)           |             ![Picture](P1_04.png)
+   ![Picture](P1_03.png)                        ![Picture](P1_04.png)
    
    Data adquisition per streaming service chart
    

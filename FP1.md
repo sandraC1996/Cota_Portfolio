@@ -42,11 +42,11 @@
         
 ## Initial Sketches:
 
-   **Netflix amount of content 2010 - 2020        | | | | | | | |                       Streaming platform growth 2010 - 2020**
+   **Netflix amount of content 2010 - 2020        -------------------                       Streaming platform growth 2010 - 2020**
    
    ![Picture](P1_01.png)                      ![Picture](P1_02.png)
    
-   **Average scores for streaming services content           | | | | |        Old & new streaming services**
+   **Average scores for streaming services content          ----------        Old & new streaming services**
    
    ![Picture](P1_03.png)                        ![Picture](P1_04.png)
    

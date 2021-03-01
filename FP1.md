@@ -15,8 +15,7 @@
       
       Bring focus in how the mix of their original content with access to classic movies and tv shows became a key reason for their progress
         
-#### Point 1:
- **Succes for streaming plataforms**
+#### Point 1: **Succes for streaming plataforms**
     
  - **Exponential success & Covid-19**
         
@@ -26,8 +25,7 @@
         
    Content generated primarely for stremaing services has higger scores than network and cable tv. The streaming services develop shows specificly for their users.
         
-#### Point 2:
- **The other side of the coin**
+#### Point 2: **The other side of the coin**
     
   - **Overpopulation of streaming services**
 
@@ -37,12 +35,13 @@
 
     Streaming services have a bigger access to your individual data and it links directly with the adds or fees they charge.
         
-#### Closing:
- **What can we do?**
+#### Closing: **What can we do?**
     
    Using this in our favor. Being selective with the content we consume.
    Support shows and networks that aline to our views and create quality content. 
         
+## Initial Sketches:
+
         
 
 

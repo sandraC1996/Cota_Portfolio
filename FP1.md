@@ -5,7 +5,7 @@
 
 ### The rise of streaming services
 
- #### Introduction:
+#### Introduction:
  
  - **The beggining of steaming services and their moderate success:**
       

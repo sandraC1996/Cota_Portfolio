@@ -39,6 +39,9 @@
     
    Using this in our favor. Being selective with the content we consume.
    Support shows and networks that aline to our views and create quality content. 
+   
+**Story Graph**
+![Picture](P1_06.png)
         
 ## Initial Sketches:
 

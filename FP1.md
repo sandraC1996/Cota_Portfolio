@@ -69,6 +69,7 @@ This dataset helps show how the quality of the content compares between each of 
 ## Final Project Deliverable:
 
 For this project, I'm planning to use the suggested method in class Shorthand. By using an interactive website, people can have proper access to the information and the data visualizations. This will also allow them to keep learning about the topic and consult extra sources.
+
 I will focus on creating a narrative that explores the rise of streaming services. I will include plenty of data visualizations to provide the necessary information on the perks and cons of these services. This project will persuade viewers into being more selective on the content they consume and could help them decide which are the best ones for them to subscribe to.  
 
   

@@ -42,13 +42,12 @@
         
 ## Initial Sketches:
 
-   Netflix amount of content 2010 - 2020
+   Netflix amount of content 2010 - 2020                               Streaming platform growth 2010 - 2020
    
-   ![Picture](P1_01.png)
+   ![Picture](P1_01.png)                      ![Picture](P1_02.png)
    
-   Streaming platform growth 2010 - 2020
    
-   ![Picture](P1_02.png)
+
    
    Average scores for streaming services content
    
@@ -61,9 +60,12 @@
    Data adquisition per streaming service chart
    
    ![Picture](P1_05.png)
+ 
+## The data: 
    
-   
+## Final Project Deliverable:
 
+For this project, I'm planning to use the suggested method in class **Shorthand**. By using an interactive website, people can have proper access to the information and the data visualizations. This will also allow to keep digging about the topic and consult extra sources. 
 
   
 

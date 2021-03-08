@@ -6,13 +6,13 @@
 ### There is a way you can decide which tv show gets made next
 
 #### Introduction:
-**Streaming services provide unique and specialize content for their viewers.**
+  - **Streaming services provide unique and specialize content for their viewers.**
 
-   They also recopile the most information about you for their benefit, but there is a way you can use this for your benefit.
+     They also recopile the most information about you for their benefit, but there is a way you can use this for your benefit.
 
-**Netflix and the grow of streaming services:**
+  - **Netflix and the grow of streaming services:**
 
-   Bring focus on how the mix of their original content with access to classic movies and tv shows became a key reason for their success.
+     Bring focus on how the mix of their original content with access to classic movies and tv shows became a key reason for their success.
 
 #### Point 1: The overpopulation of streaming services and household impact.**
 

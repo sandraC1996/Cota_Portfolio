@@ -21,4 +21,6 @@ Assigment three - [**Academy Awards Gender Gap**](https://sandrac1996.github.io/
 
 Final Project: - [**Part 1**](https://sandrac1996.github.io/Cota_Portfolio/FP1.html)
 
+Final Project: - [**Part 2**](https://sandrac1996.github.io/Cota_Portfolio/FP2.html)
+
 

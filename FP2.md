@@ -6,9 +6,7 @@
 ### There is a way you can decide which tv show gets made next
 
 #### Introduction:
-  - **Streaming services provide unique and specialize content for their viewers.**
-
-     They also recopile the most information about you for their benefit, but there is a way you can use this for your benefit.
+  - **Streaming services provide unique and specialize content for their viewers. They also recopile the most information about you for their benefit, but there is a way you can use this for your benefit.**
 
   - **Netflix and the grow of streaming services:**
 

@@ -13,11 +13,11 @@ Streaming services provide unique and specialize content for their viewers. They
 
      Bring focus on how the mix of their original content with access to classic movies and tv shows became a key reason for their success.
 
-#### Point 1: The overpopulation of streaming services and household impact.**
+#### Point 1: The overpopulation and growth of streaming services and their household impact.**
 
- - **Overpopulation of streaming services**
+ - **Overpopulation and growth of streaming services**
 
-   Big companies and important networks are now moving to stream services. This implies fees, multiple accounts, and way more targeted ads.
+   Big companies and important networks are now moving to stream services. Increase of subscribers. This implies fees, multiple accounts, and way more targeted ads.
 
  - **Streaming Services vs Cable TV**
 

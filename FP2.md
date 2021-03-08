@@ -8,17 +8,17 @@
 #### Introduction:
 **Streaming services provide unique and specialize content for their viewers.**
 
-They also recopile the most information about you for their benefit, but there is a way you can use this for your benefit.
+   They also recopile the most information about you for their benefit, but there is a way you can use this for your benefit.
 
 **Netflix and the grow of streaming services:**
 
-Bring focus on how the mix of their original content with access to classic movies and tv shows became a key reason for their success.
+   Bring focus on how the mix of their original content with access to classic movies and tv shows became a key reason for their success.
 
 #### Point 1: The overpopulation of streaming services and household impact.**
 
  - **Overpopulation of streaming services**
 
-  Big companies and important networks are now moving to stream services. This implies fees, multiple accounts, and way more targeted ads.
+   Big companies and important networks are now moving to stream services. This implies fees, multiple accounts, and way more targeted ads.
 
  - **Streaming Services vs Cable TV**
 
@@ -35,5 +35,5 @@ Bring focus on how the mix of their original content with access to classic movi
     Which data is aquired and used for the development and approval of new shows.
 
 #### Closing: How can we use this in our favor?
-Using this in our favor. Being selective with the content we consume. Support shows and networks that aline to our views and create quality content.
+   Using this in our favor. Being selective with the content we consume. Support shows and networks that aline to our views and create quality content.
 

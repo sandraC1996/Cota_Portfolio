@@ -8,7 +8,7 @@ After sharing with the class the first draft outline these are some of the comme
  - Address since the beginning how the goal of the presentation is to make the user understand they have a say in what content is been created based on the shows they watch.
  - Which streaming service they can choose base on what you support. Ex. Which streaming services have more diverse and inclusive content creators.
 
-To make these changes, I reworked the outline and change my approach to the project. I will have a quick introduction about streaming services, and I will dive right into their overpopulation and impact on households. Then I will address how these services are changing to the original content and how data is shaping it.  
+To make these changes, I reworked the outline and change my approach to the project. I will have a quick introduction about streaming services, and I will dive right into their overpopulation and impact on households. Then I will address how these services are changing to create original content and how data has a huge role in their development.  
 
 ## Revised Outline:
 

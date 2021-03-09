@@ -20,7 +20,7 @@ Streaming services provide unique and specialize content for their viewers. They
 
 #### Introduction:
 
-  - **Netflix and the grow of streaming services:**
+  - **Netflix and the growth of streaming services:**
 
      Bring focus on how the mix of their original content with access to classic movies and tv shows became a key reason for their success.
 

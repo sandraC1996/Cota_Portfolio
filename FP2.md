@@ -1,6 +1,15 @@
 
 # Final Project: Part II
 
+## Class Feedback:
+
+After sharing with the class the first draft outline these are some of the comments I received and decided I should look into:
+ - Provide some background about the average household spending on streaming services vs cable
+ - Address since the beginning how the goal of the presentation is to make the user understand they have a say in what content is been created based on the shows they watch.
+ - Which streaming service they can choose base on what you support. Ex. Which streaming services have more diverse and inclusive content creators.
+
+To make these changes, I reworked the outline and change my approach to the project. I will have a quick introduction about streaming services, and I will dive right into their overpopulation and impact on households. Then I will address how these services are changing to the original content and how data is shaping it.  
+
 ## Revised Outline:
 
 ### There is a way you can decide which tv show gets made next

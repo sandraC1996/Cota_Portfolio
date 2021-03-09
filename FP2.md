@@ -46,4 +46,8 @@ Streaming services provide unique and specialize content for their viewers. They
 
 #### Closing: How can we use this in our favor?
    Using this in our favor. Being selective with the content we consume. Support shows and networks that aline to our views and create quality content.
+   
+## Draft of the story:
+
+To analyze how my story is being understend by the public, insted of doing handraw wireframes I decided to create a draft in Shorthand. Here is the link to the [story](https://preview.shorthand.com/NGa58NJK5iNJaKkk).
 

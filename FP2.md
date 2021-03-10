@@ -36,13 +36,13 @@ Streaming services provide unique and specialize content for their viewers. They
 
 #### Point 2: Original Content and Data acquisition
 
-  - **Migration from licence content to original content**
+  - **Migration from license content to original content**
   
     Original quality content in every platform and a new approach to TV shows. The streaming services develop shows specifically for their users.
 
-  - **Data and their impact in the creation of content**
+  - **Data and their impact on the creation of content**
  
-    Which data is aquired and used for the development and approval of new shows.
+    Which data is acquired and used for the development and approval of new shows.
 
 #### Closing: How can we use this in our favor?
    Using this in our favor. Being selective with the content we consume. Support shows and networks that aline to our views and create quality content.

@@ -24,7 +24,7 @@ Streaming services provide unique and specialize content for their viewers. They
 
      Bring focus on how the mix of their original content with access to classic movies and tv shows became a key reason for their success.
 
-#### Point 1: The overpopulation and growth of streaming services and their household impact.**
+#### Point 1: The overpopulation and growth of streaming services and their household impact
 
  - **Overpopulation and growth of streaming services**
 
@@ -34,7 +34,7 @@ Streaming services provide unique and specialize content for their viewers. They
 
    The cost and subscriptions for streaming services compared to Cable tv. Streaming services have bigger access to your individual data and it links directly with the ads or   fees they charge. 
 
-#### Point 2: Original Content and Data acquisition**
+#### Point 2: Original Content and Data acquisition
 
   - **Migration from licence content to original content**
   

@@ -1,4 +1,4 @@
-[**Main Page**](https://sandrac1996.github.io/Cota_Portfolio/) [**Part 1**](https://sandrac1996.github.io/Cota_Portfolio/FP1.html)
+[**Main Page**](https://sandrac1996.github.io/Cota_Portfolio/) - [**Part 1**](https://sandrac1996.github.io/Cota_Portfolio/FP1.html)
 
 
 # Final Project: Part II

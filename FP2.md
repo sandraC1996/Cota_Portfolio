@@ -55,13 +55,23 @@ To analyze how my story is being understend by the public, insted of doing handr
 
 ## User Research and Interviews
 
-  - **For this research interview I want to focus on users of multiple streaming platforms.**
+  - **For this research interview I wanted to focus on users of multiple streaming platforms.**
 
     The importance of this information will be more impactful to individuals that are expose to the multiple streaming services. 
     
-  - **I wanted to focus in consumers that direclty connect to my call to action.**
+  - **To select the target audeince I focused in consumers that will direclty connect to my call to action.**
  
-    By selecting this audience I know they can analyze how their behavior when using streaming platforms is currently being reflected in the content. 
+    By selecting this audience, I know they can analyze how their behavior when using streaming platforms is currently being reflected in the content. 
+    
+  - **To get the feedback I was looking for, these are the questions I ask to the users:**
+     - Do you understand what each graph is trying to express?
+     - Does the story has a good flow?
+     - Did you feel engaged with the story?
+     - Do the use of data and visualization support the presentation?
+     - Is there anything extra information you wanted to learn about?
+     - Any extra comments?  
+    
+   - **The feedback gather from the interviews:**
     
     
     

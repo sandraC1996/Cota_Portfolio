@@ -66,17 +66,17 @@ Here is the link to the [**story**](https://preview.shorthand.com/NGa58NJK5iNJaK
    By selecting this audience, I know they can analyze how their behavior when using streaming platforms is currently being reflected in the content. I selected 5 individuals to gather the feedback.
     
   **To get the feedback I was looking for, these are the questions I ask to the users:**
-      - Do you understand what each graph is trying to express?
+     - Do you understand what each graph is trying to express?
       
-      - Does the story has a good flow?
+     - Does the story has a good flow?
       
-      - Did you feel engaged with the story?
+     - Did you feel engaged with the story?
       
-      - Do the use of data and visualization support the presentation?
+     - Do the use of data and visualization support the presentation?
+     
+     - Is there anything extra information you wanted to learn about?
       
-      - Is there anything extra information you wanted to learn about?
-      
-      - Any extra comments?  
+     - Any extra comments?  
     
    **The feedback gather from the interviews:**
    - **Story flow**

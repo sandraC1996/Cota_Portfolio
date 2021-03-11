@@ -63,7 +63,7 @@ Here is the link to the [**story**](https://preview.shorthand.com/NGa58NJK5iNJaK
     
   - **To select the target audeince I focused in consumers that will direclty connect to my call to action.**
  
-    By selecting this audience, I know they can analyze how their behavior when using streaming platforms is currently being reflected in the content. 
+    By selecting this audience, I know they can analyze how their behavior when using streaming platforms is currently being reflected in the content. I selected 5 individuals to gather the feedback.
     
   - **To get the feedback I was looking for, these are the questions I ask to the users:**
      - Do you understand what each graph is trying to express?
@@ -74,8 +74,16 @@ Here is the link to the [**story**](https://preview.shorthand.com/NGa58NJK5iNJaK
      - Any extra comments?  
     
    - **The feedback gather from the interviews:**
+     **Story flow**
+       Overall, they all agree there was a good flow through the story.
+       They were some comments about: 
+       - Having a bit more connection in the introduction to the final call to action.
+       - There is more focus to Netflix than the other platforms, should the call to action refer to it?
+       - Some information is shown in paragraphs and other in bulletpoints, to help the viewer you could use parallel structure
+       - Most of it is really good, I'm just getting lost on how the last points connect together
+       
+       From this comments I will address the introdction, the parallel structure and the transition between points. Currently I focused on having the outline in shorthand, and I didn't filled all the information in the text. By adding the missing information, I will hopefully create better transitions and connections between the content and the graphs. 
     
-    
-    
+   
     
 

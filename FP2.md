@@ -100,25 +100,25 @@ Here is the link to the [**story**](https://preview.shorthand.com/NGa58NJK5iNJaK
 
    **This is the section where I got the most feedback and it was quite variated. I will go through the graphs in order:**
    
-##### Second Graph
+#### Second Graph
    - The **second graph** where you show the growth of streaming services is a bit confusing because I had to look at it a couple of times to understand that it was changing from 2011 to 2014, then 2011 to 2017, and finally from 2011 to 2020. 
     
    I will hopefully clear this problem when I export the graph from tableau and not have just screenshots. The idea behind the graph is that while the reader scrolls through the section, the bars will grow through the years. So it will be only one graph and not three. 
    
-##### Fourth Graph  
+#### Fourth Graph  
    - I got a bit confused on the **fourth graph** (blue and orange lines) because your colors are not being consistent. In the second graph, you used blue for Disney + and Orange for Amazon, so when I got to this graph I was expecting this to still be true, however, it was not the case. Blue meant April 2020 and Orange December 2020.
    - It's not really clear what you want to show in the **fourth graph**. I thought it was showing a decrease in a trend. Maybe using a butterfly chart will help get the idea across in a better way.
    - I’m a bit confused on your **fourth graph**. I can’t really see a clear trend, and I don’t think the graph shows an average but you describe it as an average.
     
    I agree that this was a graph that didn't convey the information in a clear way to the viewer. I will look into the suggestion of using a butterfly char instead of this bar chart. 
     
-##### Fifth Graph
+#### Fifth Graph
    - For your **fifth graph** (forecast), you could maybe make the forecast area smaller to show a more focused trend.
    - On your **fifth graph**, is the light blue shaded part supposed to be a projection from that point forward? I know it might be weird to use two different platforms but flourish has a great way of doing that dotted line and it might be easier to understand.
     
    I'm going to look into using flourish for this graph. My original idea was using a dotted line, but I couldn't find a way to do it in tableau. That's why I stick to the light blue shaded area. 
       
-##### Sixth Graph
+#### Sixth Graph
 - When you show the # of licensed vs original shows I wonder if a breakdown showing the percentage would also be useful
 - I think it might be interesting to see licensed vs original shows as a share of the overall content library
 - Love the License vs original show graph, but it’s cut off a bit
@@ -126,7 +126,7 @@ Here is the link to the [**story**](https://preview.shorthand.com/NGa58NJK5iNJaK
 
 I'm gonna search for a better way to share this information. My original plan was having the shift from license to original (like the last bullet point suggests) but I couldn't found that data public.
 
-##### Sevent Graph
+#### Sevent Graph
 - I really like this graph, I will maybe just change the colors a little because they are too similar to each other.
 - Maybe having the year inside of the bubble instead of the # of original content will be better. You already get a sense of how different is each year by the size of the bubble. 
 

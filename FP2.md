@@ -59,13 +59,13 @@ Here is the link to the [**story**](https://preview.shorthand.com/NGa58NJK5iNJaK
 
   **For this research interview I wanted to focus on users of multiple streaming platforms.**
 
-   The importance of this information will be more impactful to individuals that are expose to the multiple streaming services. 
+   The importance of this information will be more impactful to individuals that are exposed to multiple streaming services. 
     
-  **To select the target audeince I focused in consumers that will direclty connect to my call to action.**
+  **To select the target audience I focused on consumers that will directly connect to my call to action.**
  
    By selecting this audience, I know they can analyze how their behavior when using streaming platforms is currently being reflected in the content. I selected 5 individuals to gather the feedback.
     
-  **To get the feedback I was looking for, these are the questions I ask to the users:**
+  **To get the feedback I was looking for, these are the questions I ask the users:**
    - Do you understand what each graph is trying to express?
       
    - Does the story has a good flow?
@@ -84,12 +84,19 @@ Here is the link to the [**story**](https://preview.shorthand.com/NGa58NJK5iNJaK
        Overall, they all agree there was a good flow through the story.
        They were some comments about: 
        - Having a bit more connection in the introduction to the final call to action.
-       - There is more focus to Netflix than the other platforms, should the call to action refer to it?
-       - Some information is shown in paragraphs and other in bulletpoints, to help the viewer you could use parallel structure
+       - There is more focus on Netflix than the other platforms, should the call to action refer to it?
+       - Some information is shown in paragraphs and others in bullet points, to help the viewer you could use parallel structure
        - Most of it is really good, I'm just getting lost on how the last points connect together
        
-       From this comments I will address the introdction, the parallel structure and the transition between points. Currently I focused on having the outline in shorthand, and I didn't filled all the information in the text. By adding the missing information, I will hopefully create better transitions and connections between the content and the graphs. 
+       From these comments, I will address the introduction, the parallel structure, and the transition between points. Currently, I focused on having the outline in shorthand, and I didn't fill all the information in the text. By adding the missing information, I will hopefully create better transitions and connections between the content and the graphs. 
     
-   
+   - **Engagement with the story**
     
+     All my interviewers agree that it was a topic they were all interested in. Comments include that it helped them raise awareness of their impact as viewers and that it was a really interesting topic. They also add that it helps that everything was linked together and the stakes were increasing through the story. 
+     
+     As all the feedback was positive in this section, I don't plan in changing anything relating to engagement. 
+     
+   - **Data visualization and their connection to the story**
 
+     This is the section where I got the most feedback and it was quite variated. I will go through the graphs in order:
+     

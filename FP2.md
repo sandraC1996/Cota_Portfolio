@@ -57,15 +57,15 @@ Here is the link to the [**story**](https://preview.shorthand.com/NGa58NJK5iNJaK
 
 ## User Research and Interviews
 
-  - **For this research interview I wanted to focus on users of multiple streaming platforms.**
+  **For this research interview I wanted to focus on users of multiple streaming platforms.**
 
     The importance of this information will be more impactful to individuals that are expose to the multiple streaming services. 
     
-  - **To select the target audeince I focused in consumers that will direclty connect to my call to action.**
+  **To select the target audeince I focused in consumers that will direclty connect to my call to action.**
  
     By selecting this audience, I know they can analyze how their behavior when using streaming platforms is currently being reflected in the content. I selected 5 individuals to gather the feedback.
     
-  - **To get the feedback I was looking for, these are the questions I ask to the users:**
+  **To get the feedback I was looking for, these are the questions I ask to the users:**
      - Do you understand what each graph is trying to express?
      - Does the story has a good flow?
      - Did you feel engaged with the story?
@@ -73,8 +73,8 @@ Here is the link to the [**story**](https://preview.shorthand.com/NGa58NJK5iNJaK
      - Is there anything extra information you wanted to learn about?
      - Any extra comments?  
     
-   - **The feedback gather from the interviews:**
-     **Story flow**
+   **The feedback gather from the interviews:**
+   - **Story flow**
        Overall, they all agree there was a good flow through the story.
        They were some comments about: 
        - Having a bit more connection in the introduction to the final call to action.

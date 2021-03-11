@@ -57,15 +57,15 @@ Here is the link to the [**story**](https://preview.shorthand.com/NGa58NJK5iNJaK
 
 ## User Research and Interviews
 
-  **For this research interview I wanted to focus on users of multiple streaming platforms.**
+  ### For this research interview I wanted to focus on users of multiple streaming platforms.
 
    The importance of this information will be more impactful to individuals that are exposed to multiple streaming services. 
     
-  **To select the target audience I focused on consumers that will directly connect to my call to action.**
+  ### To select the target audience I focused on consumers that will directly connect to my call to action.
  
    By selecting this audience, I know they can analyze how their behavior when using streaming platforms is currently being reflected in the content. I selected 5 individuals to gather the feedback.
     
-  **To get the feedback I was looking for, these are the questions I ask the users:**
+  ### To get the feedback I was looking for, these are the questions I ask the users:**
    - Do you understand what each graph is trying to express?
       
    - Does the story has a good flow?
@@ -78,8 +78,8 @@ Here is the link to the [**story**](https://preview.shorthand.com/NGa58NJK5iNJaK
       
    - Any extra comments?  
    
-   **The feedback gather from the interviews:**
-   - **Story flow**
+   ### The feedback gather from the interviews:**
+   #### Story flow
    
        Overall, they all agree there was a good flow through the story.
        They were some comments about: 
@@ -90,7 +90,7 @@ Here is the link to the [**story**](https://preview.shorthand.com/NGa58NJK5iNJaK
        
        From these comments, I will address the introduction, the parallel structure, and the transition between points. Currently, I focused on having the outline in shorthand, and I didn't fill all the information in the text. By adding the missing information, I will hopefully create better transitions and connections between the content and the graphs. 
     
-   - **Engagement with the story**
+   #### - **Engagement with the story**
     
      All my interviewers agree that it was a topic they were all interested in. Comments include that it helped them raise awareness of their impact as viewers and that it was a really interesting topic. They also add that it helps that everything was linked together and the stakes were increasing through the story. 
      

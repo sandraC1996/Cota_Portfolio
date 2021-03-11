@@ -67,10 +67,15 @@ Here is the link to the [**story**](https://preview.shorthand.com/NGa58NJK5iNJaK
     
   **To get the feedback I was looking for, these are the questions I ask to the users:**
       - Do you understand what each graph is trying to express?
+      
       - Does the story has a good flow?
+      
       - Did you feel engaged with the story?
+      
       - Do the use of data and visualization support the presentation?
+      
       - Is there anything extra information you wanted to learn about?
+      
       - Any extra comments?  
     
    **The feedback gather from the interviews:**

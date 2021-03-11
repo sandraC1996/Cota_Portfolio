@@ -98,7 +98,7 @@ Here is the link to the [**story**](https://preview.shorthand.com/NGa58NJK5iNJaK
      
 #### - **Data visualization and their connection to the story**
 
-   **This is the section where I got the most feedback and it was quite variated. I will go through the graphs in order:**
+   This is the section where I got the most feedback and it was quite variated. I will go through the graphs in order:
    
 #### Second Graph
    - The **second graph** where you show the growth of streaming services is a bit confusing because I had to look at it a couple of times to understand that it was changing from 2011 to 2014, then 2011 to 2017, and finally from 2011 to 2020. 

@@ -53,4 +53,17 @@ Streaming services provide unique and specialize content for their viewers. They
 
 To analyze how my story is being understend by the public, insted of doing handraw wireframes I decided to create a draft in Shorthand. Here is the link to the [story](https://preview.shorthand.com/NGa58NJK5iNJaKkk).
 
+## User Research and Interviews
+
+  - **For this research interview I want to focus on users of multiple streaming platforms.**
+
+    The importance of this information will be more impactful to individuals that are expose to the multiple streaming services. 
+    
+  - **I wanted to focus in consumers that direclty connect to my call to action.**
+ 
+    By selecting this audience I know they can analyze how their behavior when using streaming platforms is currently being reflected in the content. 
+    
+    
+    
+    
 

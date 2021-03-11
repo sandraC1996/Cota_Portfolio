@@ -119,6 +119,17 @@ Here is the link to the [**story**](https://preview.shorthand.com/NGa58NJK5iNJaK
    I'm going to look into using flourish for this graph. My original idea was using a dotted line, but I couldn't find a way to do it in tableau. That's why I stick to the light blue shaded area. 
       
   ##### Sixth Graph
+- When you show the # of licensed vs original shows I wonder if a breakdown showing the percentage would also be useful
+- I think it might be interesting to see licensed vs original shows as a share of the overall content library
+- Love the License vs original show graph, but it’s cut off a bit
+- Maybe instead of this graph you could have a shift of license to original content through the years or use a pie chart to show the difference.
 
+I'm gonna search for a better way to share this information. My original plan was having the shift from license to original (like the last bullet point suggests) but I couldn't found that data public.
+
+##### Sevent Graph
+- I really like this graph, I will maybe just change the colors a little because they are too similar to each other.
+- Maybe having the year inside of the bubble instead of the # of original content will be better. You already get a sense of how different is each year by the size of the bubble. 
+
+I will find a better way to show the labels, and I will move to slightly different colors.
 
      

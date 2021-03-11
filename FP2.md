@@ -81,14 +81,14 @@ Here is the link to the [**story**](https://preview.shorthand.com/NGa58NJK5iNJaK
    ### The feedback gather from the interviews:
    #### - **Story flow**
    
-       Overall, they all agree there was a good flow through the story.
+   Overall, they all agree there was a good flow through the story.
        They were some comments about: 
        - Having a bit more connection in the introduction to the final call to action.
        - There is more focus on Netflix than the other platforms, should the call to action refer to it?
        - Some information is shown in paragraphs and others in bullet points, to help the viewer you could use parallel structure
        - Most of it is really good, I'm just getting lost on how the last points connect together
        
-       From these comments, I will address the introduction, the parallel structure, and the transition between points. Currently, I focused on having the outline in shorthand, and I didn't fill all the information in the text. By adding the missing information, I will hopefully create better transitions and connections between the content and the graphs. 
+   From these comments, I will address the introduction, the parallel structure, and the transition between points. Currently, I focused on having the outline in shorthand, and I didn't fill all the information in the text. By adding the missing information, I will hopefully create better transitions and connections between the content and the graphs. 
     
    #### - **Engagement with the story**
     
@@ -99,7 +99,8 @@ Here is the link to the [**story**](https://preview.shorthand.com/NGa58NJK5iNJaK
    #### - **Data visualization and their connection to the story**
 
    **This is the section where I got the most feedback and it was quite variated. I will go through the graphs in order:**
-     - The **second graph** where you show the growth of streaming services is a bit confusing because I had to look at it a couple of times to understand that it was changing from 2011 to 2014, then 2011 to 2017, and finally from 2011 to 2020. 
+   
+   - The **second graph** where you show the growth of streaming services is a bit confusing because I had to look at it a couple of times to understand that it was changing from 2011 to 2014, then 2011 to 2017, and finally from 2011 to 2020. 
     
    I will hopefully clear this problem when I export the graph from tableau and not have just screenshots. The idea behind the graph is that while the reader scrolls through the section, the bars will grow through the years. So it will be only one graph and not three. 
      

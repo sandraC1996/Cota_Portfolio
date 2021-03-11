@@ -132,5 +132,7 @@ I'm gonna search for a better way to share this information. My original plan wa
 
 Maybe I will try to use flourish for this visualization. I tried having the year as the labels instead of the number of original content, but because some bubbles were too small, they were overlapìng with the edge of the circle. I will find a better way to show the labels and have slightly different colors, or I will change the type of visualization.
 
+## Closing:
+
 These were the results of the feedback. It was quite useful because I realized that I had overlooked some details and those that I had caught but thought might not be that important were also pointed out by other people. I'm looking forward to filling in the rest of my information and changing the visualizations so the viewer understands them easier. 
      

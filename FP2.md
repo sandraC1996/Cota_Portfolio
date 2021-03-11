@@ -51,7 +51,9 @@ Streaming services provide unique and specialize content for their viewers. They
    
 ## Draft of the story:
 
-To analyze how my story is being understend by the public, insted of doing handraw wireframes I decided to create a draft in Shorthand. Here is the link to the [story](https://preview.shorthand.com/NGa58NJK5iNJaKkk).
+To analyze how my story is being understend by the public, insted of doing handraw wireframes I decided to create a draft in Shorthand. 
+
+Here is the link to the [**story**](https://preview.shorthand.com/NGa58NJK5iNJaKkk).
 
 ## User Research and Interviews
 

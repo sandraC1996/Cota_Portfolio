@@ -65,7 +65,7 @@ Here is the link to the [**story**](https://preview.shorthand.com/NGa58NJK5iNJaK
  
    By selecting this audience, I know they can analyze how their behavior when using streaming platforms is currently being reflected in the content. I selected 5 individuals to gather the feedback.
     
-  ### To get the feedback I was looking for, these are the questions I ask the users:**
+  ### To get the feedback I was looking for, these are the questions I ask the users:
    - Do you understand what each graph is trying to express?
       
    - Does the story has a good flow?
@@ -78,8 +78,8 @@ Here is the link to the [**story**](https://preview.shorthand.com/NGa58NJK5iNJaK
       
    - Any extra comments?  
    
-   ### The feedback gather from the interviews:**
-   #### Story flow
+   ### The feedback gather from the interviews:
+   #### - **Story flow**
    
        Overall, they all agree there was a good flow through the story.
        They were some comments about: 
@@ -92,13 +92,13 @@ Here is the link to the [**story**](https://preview.shorthand.com/NGa58NJK5iNJaK
     
    #### - **Engagement with the story**
     
-     All my interviewers agree that it was a topic they were all interested in. Comments include that it helped them raise awareness of their impact as viewers and that it was a really interesting topic. They also add that it helps that everything was linked together and the stakes were increasing through the story. 
+  All my interviewers agree that it was a topic they were all interested in. Comments include that it helped them raise awareness of their impact as viewers and that it was a really interesting topic. They also add that it helps that everything was linked together and the stakes were increasing through the story. 
      
-     As all the feedback was positive in this section, I don't plan in changing anything relating to engagement. 
+  As all the feedback was positive in this section, I don't plan in changing anything relating to engagement. 
      
-   - **Data visualization and their connection to the story**
+   #### - **Data visualization and their connection to the story**
 
-     **This is the section where I got the most feedback and it was quite variated. I will go through the graphs in order:**
+   **This is the section where I got the most feedback and it was quite variated. I will go through the graphs in order:**
      - The **second graph** where you show the growth of streaming services is a bit confusing because I had to look at it a couple of times to understand that it was changing from 2011 to 2014, then 2011 to 2017, and finally from 2011 to 2020. 
     
    I will hopefully clear this problem when I export the graph from tableau and not have just screenshots. The idea behind the graph is that while the reader scrolls through the section, the bars will grow through the years. So it will be only one graph and not three. 

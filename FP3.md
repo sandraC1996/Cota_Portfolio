@@ -39,4 +39,16 @@ All the information used for this story can be found below:
             
 ### Data
 
+   - Netflix
+          Growth through the years: https://www.businessofapps.com/data/netflix-statistics/
 
+   - Hulu
+          Growth through the years: https://www.businessofapps.com/data/hulu-statistics/
+   
+   - Disney +
+          Growth through the years: https://www.businessofapps.com/data/disney-plus-statistics/
+          
+   - Amazon prime
+          Growth through the years: https://www.statista.com/statistics/546894/number-of-amazon-prime-paying-members/#:~:text=Amazon%20Prime%20is%20constantly%20growing,e%2Dretail%20platform%20per%20year.
+          
+          

@@ -1,4 +1,4 @@
-[**Main Page**](https://sandrac1996.github.io/Cota_Portfolio/) - [**Final Project: Part 1**](https://sandrac1996.github.io/Cota_Portfolio/FP1.html)
+[**Main Page**](https://sandrac1996.github.io/Cota_Portfolio/) - [**Previous Assigment**](https://sandrac1996.github.io/Cota_Portfolio/govDebt.html) - [**Final Project: Part 1**](https://sandrac1996.github.io/Cota_Portfolio/FP1.html)
 
 
 # The Gender Gap in the Academy Awards

@@ -39,13 +39,12 @@ All the information used for this story can be found below:
             
 ### Data
 
-   - Netflix
-   
-        Growth through the years: https://www.businessofapps.com/data/netflix-statistics/
-
-   - Hulu
-
-        Growth through the years: https://www.businessofapps.com/data/hulu-statistics/
+   - Streaming services growth last year: https://screenrant.com/streaming-services-2020-growth-pandemic-subscribers/
+   - Shift in household streaming services subscription: https://www.telecompetitor.com/j-d-power-sees-jump-in-streaming-services-per-household-average-monthly-spend/
+   - Household spending on Cable TV: https://fortune.com/2018/11/15/average-cable-tv-bill-cord-cutting/
+   - Households cutting Calbe TV: https://www.emarketer.com/chart/239059/us-cord-cutter-households-2019-2024-millions-change-of-households
+   - Netflix - Growth through the years: https://www.businessofapps.com/data/netflix-statistics/
+   - Hulu - Growth through the years: https://www.businessofapps.com/data/hulu-statistics/
    
    - Disney +
           

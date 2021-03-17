@@ -24,7 +24,8 @@ Here you can find the final published story in Shorthand:
 All the information used for this story can be found below:
      
    - Images from [Wunderstock.com](https://wunderstock.com/):
-         **_Image credit freestocks.org on Wunderstock (license)_**
+         
+        **_Image credit freestocks.org on Wunderstock (license)_** and **_Image credit Tinh Te Photos on Wunderstock (license)_**
         
         **Links:** 
         

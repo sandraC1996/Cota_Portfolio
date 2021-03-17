@@ -40,18 +40,15 @@ All the information used for this story can be found below:
 ### Data
 
    - Streaming services growth last year: https://screenrant.com/streaming-services-2020-growth-pandemic-subscribers/
-   - Shift in household streaming services subscription: https://www.telecompetitor.com/j-d-power-sees-jump-in-streaming-services-per-household-average-monthly-spend/
+   - Household subscribing to more streaming services: https://www.telecompetitor.com/j-d-power-sees-jump-in-streaming-services-per-household-average-monthly-spend/
    - Household spending on Cable TV: https://fortune.com/2018/11/15/average-cable-tv-bill-cord-cutting/
    - Households cutting Calbe TV: https://www.emarketer.com/chart/239059/us-cord-cutter-households-2019-2024-millions-change-of-households
    - Netflix - Growth through the years: https://www.businessofapps.com/data/netflix-statistics/
    - Hulu - Growth through the years: https://www.businessofapps.com/data/hulu-statistics/
-   
-   - Disney +
-          
-        Growth through the years: https://www.businessofapps.com/data/disney-plus-statistics/
-          
-   - Amazon prime
-          
-        Growth through the years: https://www.statista.com/statistics/546894/number-of-amazon-prime-paying-members/#:~:text=Amazon%20Prime%20is%20constantly%20growing,e%2Dretail%20platform%20per%20year.
-          
+   - Disney + - Growth through the years: https://www.businessofapps.com/data/disney-plus-statistics/
+   - Amazon prime - Growth through the years: https://www.statista.com/statistics/546894/number-of-amazon-prime-paying-members/#:~:text=Amazon%20Prime%20is%20constantly%20growing,e%2Dretail%20platform%20per%20year.
+   - Original vs Licence content per streaming service: https://blog.reelgood.com/original-and-licensed-tv-shows-available-on-u-s-streaming-services
+   - Netflix data recolection: https://neilpatel.com/blog/how-netflix-uses-analytics/ 
+   - The story of netflix: https://interestingengineering.com/the-fascinating-history-of-netflix
+   - Netflix original content growth: https://www.comparitech.com/blog/vpn-privacy/netflix-statistics-facts-figures/
           

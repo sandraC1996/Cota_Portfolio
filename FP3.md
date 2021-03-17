@@ -15,4 +15,5 @@ As stated at the end of Part 2, there were multiple changes that could be done t
 - Lastly, I took a different approach for the growth of original content from Netflix to the years. In my orignal wireframe, I used a bubble chart. With each bubble representing a year and its size the amount of content. Because of the presentation, it was slighly difficult to show labels of the years in the bubbles, so I change it to a bar graph. I believe the difference between years is still quite notizable and the information is depicted in a much clearer way.
 - Other graphs also had small changes like color and size, but because they were minimum I'm not breaking them down as the previous ones. 
 
-
+## Final Data Stroy
+Here you can find the final published story in Shorthand: **[Shaping the content of the future**](https://carnegiemellon.shorthandstories.com/shaping-the-content--of-the-future/index.html)

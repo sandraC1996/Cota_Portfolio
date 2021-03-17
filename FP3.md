@@ -22,6 +22,8 @@ Here you can find the final published story in Shorthand:
 
 ## Reference and Citations
 All the information used for this story can be found below:
+
+### Images
      
    - Images from [Wunderstock.com](https://wunderstock.com/):
          
@@ -35,6 +37,6 @@ All the information used for this story can be found below:
         
    - Extra images created by me
             
-
+### Data
 
 

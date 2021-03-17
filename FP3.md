@@ -28,7 +28,7 @@ All the information used for this story can be found below:
            
         Image credit freestocks.org on Wunderstock (license)
         
-        Links: 
+        **Links:** 
         
         https://wunderstock.com/photo/netflix-and-chill_42921011804
                   

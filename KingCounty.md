@@ -1,4 +1,4 @@
-[**Main Page**](https://sandrac1996.github.io/Cota_Portfolio/) - [**Next Assigment**]((https://sandrac1996.github.io/Cota_Portfolio/govDebt.html) - [**Final Project: Part 1**](https://sandrac1996.github.io/Cota_Portfolio/FP1.html)
+[**Main Page**](https://sandrac1996.github.io/Cota_Portfolio/) - [**Next Assigment**](https://sandrac1996.github.io/Cota_Portfolio/govDebt.html) - [**Final Project: Part 1**](https://sandrac1996.github.io/Cota_Portfolio/FP1.html)
 
 # King County **Covid Cases**
 

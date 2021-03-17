@@ -1,6 +1,6 @@
 [**Main Page**](https://sandrac1996.github.io/Cota_Portfolio/) - [**Previous Assigment**](https://sandrac1996.github.io/Cota_Portfolio/KingCounty.html) - [**Next Assigment**](https://sandrac1996.github.io/Cota_Portfolio/AAGG.html) - [**Final Project: Part 1**](https://sandrac1996.github.io/Cota_Portfolio/FP1.html)
 
-# Assigment two - **Goverment Debt**
+# **Goverment Debt**
 
 ## Understanding Goverment Debt with Data visualization
 

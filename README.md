@@ -13,7 +13,7 @@ I was quite excited to take this course. My main goal is to be able to present d
 
 ## Portfolio
 
-[**King County Cases**](https://sandrac1996.github.io/Cota_Portfolio/KingCounty.html)
+Assigment one - [**King County Cases**](https://sandrac1996.github.io/Cota_Portfolio/KingCounty.html)
 
 Assigment two - [**General Goverment Debt**](https://sandrac1996.github.io/Cota_Portfolio/govDebt.html)
 
@@ -22,5 +22,9 @@ Assigment three - [**Academy Awards Gender Gap**](https://sandrac1996.github.io/
 Final Project: - [**Part 1**](https://sandrac1996.github.io/Cota_Portfolio/FP1.html)
 
 Final Project: - [**Part 2**](https://sandrac1996.github.io/Cota_Portfolio/FP2.html)
+
+Final Project: - [**Part 3**](https://sandrac1996.github.io/Cota_Portfolio/FP3.html)
+
+Final Project: - [**Shorthand**](https://carnegiemellon.shorthandstories.com/shaping-the-content--of-the-future/index.html)
 
 

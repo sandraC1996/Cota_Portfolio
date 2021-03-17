@@ -28,9 +28,9 @@ All the information used for this story can be found below:
         
         **Links:** 
         
-        https://wunderstock.com/photo/netflix-and-chill_42921011804
+        - https://wunderstock.com/photo/netflix-and-chill_42921011804
                   
-        https://wunderstock.com/photo/dsc-1827_42804019304
+        - https://wunderstock.com/photo/dsc-1827_42804019304
         
    - Extra images created by me
             

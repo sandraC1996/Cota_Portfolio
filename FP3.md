@@ -23,8 +23,8 @@ Here you can find the final published story in Shorthand:
 ## Reference and Citations
 All the information used for this story can be found below:
      
-   - Images from **Wunderstock.com**:
-         _Image credit freestocks.org on Wunderstock (license)_
+   - Images from [Wunderstock.com](https://wunderstock.com/):
+         **_Image credit freestocks.org on Wunderstock (license)_**
         
         **Links:** 
         

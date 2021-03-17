@@ -19,3 +19,14 @@ As stated at the end of Part 2, there were multiple changes that could be done t
 Here you can find the final published story in Shorthand: 
       
    - [**Shaping the content of the future**](https://carnegiemellon.shorthandstories.com/shaping-the-content--of-the-future/index.html)
+
+## Reference and Citations
+All the information used for this story can be found below:
+      - Images from **Wunderstock.com**:
+            Image credit freestocks.org on Wunderstock (license)
+            Links: https://wunderstock.com/photo/netflix-and-chill_42921011804
+                   https://wunderstock.com/photo/dsc-1827_42804019304
+      - Extra images created by me
+            
+
+

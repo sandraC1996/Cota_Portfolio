@@ -15,14 +15,14 @@ I was quite excited to take this course. My main goal is to be able to present d
 
 ## Portfolio
 
-#### Assigments:
+#### Assigments
 Assigment one - [**King County Cases**](https://sandrac1996.github.io/Cota_Portfolio/KingCounty.html)
 
 Assigment two - [**General Goverment Debt**](https://sandrac1996.github.io/Cota_Portfolio/govDebt.html)
 
 Assigment three - [**Academy Awards Gender Gap**](https://sandrac1996.github.io/Cota_Portfolio/AAGG.html)
 
-#### Final Project:
+#### Final Project: Shaping the content of the future
 
 Final Project: - [**Part 1**](https://sandrac1996.github.io/Cota_Portfolio/FP1.html)
 

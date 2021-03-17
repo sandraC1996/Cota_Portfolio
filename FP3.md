@@ -18,4 +18,4 @@ As stated at the end of Part 2, there were multiple changes that could be done t
 ## Final Data Stroy
 Here you can find the final published story in Shorthand: 
       
-   [**Shaping the content of the future**](https://carnegiemellon.shorthandstories.com/shaping-the-content--of-the-future/index.html)
+        [**Shaping the content of the future**](https://carnegiemellon.shorthandstories.com/shaping-the-content--of-the-future/index.html)

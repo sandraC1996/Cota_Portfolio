@@ -3,11 +3,13 @@
 # Final Project: **Part 3**
 
 ## Changes from Part 2:
-For this final breakdown of my project, I'm going to focus on the major changes that happened between Part 2 and Part 3. After analyzing the feedback, I realized that no changes needed to happen to my outline, so it is staying the same that in Part 2. The biggest changes were in the graphs and the description of each section. First of all, I started by writing down the whole story and creating the connections between the main points I wanted to discuss.
+**For this final breakdown of my project, I'm going to focus on the major changes that happened between Part 2 and Part 3.**
 
-Users with accounts in multiple streaming services are my target audience. So to let them know how powerful their input can be to a streaming company, I try to focus on the huge impact of streaming services and the great migration from Cable Tv to online streaming. Also, by highlighting how this is a trend that is likely to continue and the data the streaming services are recollecting today will be reflected in the content we get in the years to come.
+After analyzing the feedback, I realized that no changes needed to happen to my outline, so it is staying the same that in Part 2. The biggest changes were in the graphs and the description of each section. First of all, I started by writing down the whole story and creating the connections between the main points I wanted to discuss.
 
-To achieve this, I start by laying out the history of streaming services and the huge growth that has happened during the last years. Then I dive into the changes these streaming services have had in households and the reason behind this migration from Cable TV to streaming. To bring the story to a close, I focus the attention of the reader on how streaming services use the data they recollect from their users to create new content. My call to action is directed to streaming services users. I want to make them aware that the content they are consuming and their interaction with the platform has a direct repercussion on the content that will be created in the future. 
+Users with accounts in multiple streaming services are my _target audience_. So to let them know how powerful their input can be to a streaming company, I try to focus on the huge impact of streaming services and the great migration from Cable Tv to online streaming. Also, by highlighting how this is a trend that is likely to continue and the data the streaming services are recollecting today will be reflected in the content we get in the years to come.
+
+To achieve this, I start by laying out the history of streaming services and the huge growth that has happened during the last years. Then I dive into the changes these streaming services have had in households and the reason behind this migration from Cable TV to streaming. To bring the story to a close, I focus the attention of the reader on how streaming services use the data they recollect from their users to create new content. My _call to action_ is directed to streaming services users. I want to make them aware that the content they are consuming and their interaction with the platform has a direct repercussion on the content that will be created in the future. 
 
 #### The graphs
 As stated at the end of Part 2, multiple changes could be done to improve the data visualization. 

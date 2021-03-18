@@ -34,7 +34,7 @@ I was happy to see the progress in how my project evolved at each stage and how 
 
 
 ## Reference and Citations
-Through Shorthand you can see the reference and citations for the story. 
+Through Shorthand you can see the references and citations for the story. 
 
 Also, all the information used for this story can be found below:
 
